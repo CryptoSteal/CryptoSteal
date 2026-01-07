@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**CryptoSteal/CryptoSteal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/GUNS.BIO-purple?style=for-the-badge&link=https%3A%2F%2Fguns.lol%2Fhirise"/>
+  <img src="https://img.shields.io/badge/SPOTIFY-GREEN?style=for-the-badge&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2F31rifxnzlbt5obcye7ajy5gkszxa%3Fsi%3Df1b5cbb71d34451e"/>
+  <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=for-the-badge&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
+</p>
+<p align="center">
+  <img src="https://lanyard.cnrad.dev/api/311140930860351489?theme=dark"/>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/qxckly/">
+    <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@qxckly">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/ScPRtas4qr">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
