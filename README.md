@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/FAKECRIME.BIO-yellow?style=for-the-badge&link=https%3A%2F%2Ffakecrime.bio%2FHirise"/>
 </p>
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/311140930860351489?theme=dark"/>
+  <img src="https://lanyard.cnrad.dev/api/1444402013918990548?borderRadius=100"/>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/qxckly/">
